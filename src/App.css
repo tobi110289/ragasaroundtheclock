@@ -21,9 +21,14 @@ span {
   background-color: rgba(137, 73, 37, 0.7);
   border-radius: 30px;
   box-shadow: 3px 2px 1px rgba(68, 36, 17, 0.7);
-  margin: 5px;
+  margin: 10px;
+}
+
+iframe {
+  margin-bottom: 60px;
 }
 
 h1 {
-
+  margin-top: 50px;
+  text-align: center;
 }
