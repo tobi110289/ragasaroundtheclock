@@ -10,7 +10,6 @@ class App extends Component {
 
   timeCheck (hour) {
     let selector = 'earlymorning';
-    console.log('hour inside timecheck', hour);
     if (hour < 3) selector = 'latenight';
     if (hour >= 3 && hour < 6) selector = 'earlymorning';
     if (hour >= 6 && hour < 9) selector = 'morning';
@@ -44,7 +43,7 @@ class App extends Component {
       default: coordinate = 0;
         break;
     }
-    return coordinate;
+    return coordinate-65;
   }
 
   scrollPlease (y) {
