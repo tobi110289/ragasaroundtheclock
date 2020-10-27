@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ragasaroundtheclock/static/css/main.04898823.chunk.css",
-    "main.js": "/ragasaroundtheclock/static/js/main.234d2b3a.chunk.js",
-    "main.js.map": "/ragasaroundtheclock/static/js/main.234d2b3a.chunk.js.map",
+    "main.css": "/ragasaroundtheclock/static/css/main.3339db6f.chunk.css",
+    "main.js": "/ragasaroundtheclock/static/js/main.23162edd.chunk.js",
+    "main.js.map": "/ragasaroundtheclock/static/js/main.23162edd.chunk.js.map",
     "runtime-main.js": "/ragasaroundtheclock/static/js/runtime-main.626f0b15.js",
     "runtime-main.js.map": "/ragasaroundtheclock/static/js/runtime-main.626f0b15.js.map",
     "static/js/2.caa0f039.chunk.js": "/ragasaroundtheclock/static/js/2.caa0f039.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.6b532155.chunk.js": "/ragasaroundtheclock/static/js/3.6b532155.chunk.js",
     "static/js/3.6b532155.chunk.js.map": "/ragasaroundtheclock/static/js/3.6b532155.chunk.js.map",
     "index.html": "/ragasaroundtheclock/index.html",
-    "static/css/main.04898823.chunk.css.map": "/ragasaroundtheclock/static/css/main.04898823.chunk.css.map",
+    "static/css/main.3339db6f.chunk.css.map": "/ragasaroundtheclock/static/css/main.3339db6f.chunk.css.map",
     "static/js/2.caa0f039.chunk.js.LICENSE.txt": "/ragasaroundtheclock/static/js/2.caa0f039.chunk.js.LICENSE.txt",
     "static/media/bg.1ecbaf1a.png": "/ragasaroundtheclock/static/media/bg.1ecbaf1a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.626f0b15.js",
     "static/js/2.caa0f039.chunk.js",
-    "static/css/main.04898823.chunk.css",
-    "static/js/main.234d2b3a.chunk.js"
+    "static/css/main.3339db6f.chunk.css",
+    "static/js/main.23162edd.chunk.js"
   ]
 }
